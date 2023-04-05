@@ -1,4 +1,5 @@
 fixes:
+  - "ballerina/yaml/**/::../ballerina/"
   - "ballerina/modules/common/**::../ballerina/"
   - "ballerina/modules/composer/**::../ballerina/"
   - "ballerina/modules/emitter/**::../ballerina/"
