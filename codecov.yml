@@ -1,13 +1,3 @@
-fixes:
-  - "ballerina/yaml/**/::../ballerina/"
-  - "ballerina/modules/common/**::../ballerina/"
-  - "ballerina/modules/composer/**::../ballerina/"
-  - "ballerina/modules/emitter/**::../ballerina/"
-  - "ballerina/modules/lexer/**::../ballerina/"
-  - "ballerina/modules/parser/**::../ballerina/"
-  - "ballerina/modules/schema/**::../ballerina/"
-  - "ballerina/modules/serializer/**::../ballerina/"
-
 coverage:
   precision: 2
   round: down
